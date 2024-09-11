@@ -1,7 +1,8 @@
 .card-time {
     background-image: url('https://media.istockphoto.com/id/1475493988/video/4k-ramadan-background-animation-night-view-of-the-arabic-lantern-and-shadow-of-mosque.jpg?s=640x640&k=20&c=lafTKnilUcboiMoIgJ6jf-GqYgD2Qr4tVHGiR8sZ-PU=');
     background-size: cover;
-
+    height: 100vh;
+    
 }
 .lii:hover {
      background-color: dodgerblue;
